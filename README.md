@@ -7,7 +7,7 @@ A compiler from mml to midi
 
 ■音名  
 音名は、  
-> abcdefg   
+> abcdefg  
 で表される。  
 
 ■半音  
